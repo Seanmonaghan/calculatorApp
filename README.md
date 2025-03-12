@@ -1,3 +1,2 @@
-Read me!
-Joshua again
-Sup
+## Read me!
+Contributors:
